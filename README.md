@@ -1,1 +1,0 @@
-# customer--trends-data-analysis-SQL-python-PoweBI
